@@ -25,4 +25,20 @@
 		Pressing the pound sign (#) will submit the entry
 		while any LED is on (i.e., while TPM interrupt is taking place) 
 			prevent any entries 
-  	Press astrik (*) to clear any entries (without being counted as an attempt"""
+  		Press astrik (*) to clear any entries (without being counted as an attempt"""
+# LCD Stopwatch
+
+****************TOOLS:****************
+
+	2 spst switches 
+	1 potwiper 
+	LCD 
+	MC9S08QG8 microcontroller
+	5V and 3.3V linear regulators
+	(2) 3.3uF, (1) 10uF, (1) 0.1uF capacitors 
+	9V battery
+
+****************OPERATION:****************
+
+The time passed will be displayed on the LCD, the timer will be reset to "00:00:00" by one button
+and the other button will start/stop the time.
