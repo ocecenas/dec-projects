@@ -8,7 +8,7 @@
 	pair of LEDs
 	microcontroller
 
-****************OPERATION (BARE BONES):****************
+****************OPERATION:****************
 
 	if correct, 
 		the green LED lights up for 2 sec
