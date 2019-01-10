@@ -1,4 +1,3 @@
-# ece431-microcontrollers
 
 # COMBINATION LOCK
 
