@@ -6,7 +6,7 @@
 
 	Keypad
 	pair of LEDs
-	MC9SO8QG8
+	microcontroller
 
 ****************OPERATION (BARE BONES):****************
 
@@ -33,10 +33,10 @@
 	2 spst switches 
 	1 potwiper 
 	LCD 
-	MC9S08QG8 microcontroller
+	microcontroller
 	5V and 3.3V linear regulators
 	(2) 3.3uF, (1) 10uF, (1) 0.1uF capacitors 
-	9V battery
+	12V battery
 
 ****************OPERATION:****************
 
