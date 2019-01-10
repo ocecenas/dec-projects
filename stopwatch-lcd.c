@@ -1,5 +1,5 @@
 // Tools
-//   2 spst switches, 1 potwiper, LCD, MC9S08QG8 microcontroller, 5V and 3.3V linear regulators, capacitors, 9V battery
+//   2 spst switches, 1 potwiper, LCD, microcontroller, 5V and 3.3V linear regulators, capacitors, 9V battery
 // Operation
 //   The time passed will be displayed on the LCD, the timer will be reset to "00:00:00" by one button
 //    and the other button will start/stop the time.
